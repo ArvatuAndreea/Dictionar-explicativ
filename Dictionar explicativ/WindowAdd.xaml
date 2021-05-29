@@ -1,0 +1,40 @@
+﻿<Window x:Class="Dictionar_explicativ.WindowAdd"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Dictionar_explicativ"
+        xmlns:ctx="clr-namespace:Dictionar_explicativ"
+        mc:Ignorable="d"
+        Title="WindowAdd" Height="450" Width="800">
+
+    <Window.DataContext>
+        <ctx:CategorieVM/>
+    </Window.DataContext>
+    <StackPanel>
+        <WrapPanel>
+            <Label Content="Cuvant: "/>
+            <TextBox Name="textBoxAddWord" Width="167"/>
+        </WrapPanel>
+        <WrapPanel>
+            <Label Content="Descriere: "/>
+            <TextBox Name="textBoxAddDescription" Width="308"/>
+        </WrapPanel>
+        <WrapPanel>
+            <Label Content="Categorie: "/>
+            <ComboBox Name="Categorie" ItemsSource="{Binding Path=Categorii}" Width="198"/>
+        </WrapPanel>
+        <WrapPanel>
+            <Label Content="Alta categorie: "/>
+            <TextBox Name="textBoxAddCategory" Width="193"/>
+            <Button Content="Add new category" Click="Button_Click"/>
+            <CheckBox IsChecked="{x:Null}"></CheckBox>
+        </WrapPanel>
+        <WrapPanel>
+            <Label Content="Imagine: "/>
+            <Button Content="Open File" Click="Open_File_Click" Width="56"/>
+            <TextBox Name="txtEditor" Width="183" TextChanged="txtEditor_TextChanged" />
+        </WrapPanel>
+        <Button Content="ADD" HorizontalAlignment="Center" RenderTransformOrigin="-7.022,0.566" Click="Button_Click_1"/>
+    </StackPanel>
+</Window>

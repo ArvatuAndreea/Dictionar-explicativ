@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionar explicativ", "Dictionar explicativ.csproj", "{4BA7138D-5BF6-4E76-806B-2CF604EB67DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BA7138D-5BF6-4E76-806B-2CF604EB67DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BA7138D-5BF6-4E76-806B-2CF604EB67DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BA7138D-5BF6-4E76-806B-2CF604EB67DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BA7138D-5BF6-4E76-806B-2CF604EB67DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46501258-0371-42EC-831E-B336C02D4E11}
+	EndGlobalSection
+EndGlobal

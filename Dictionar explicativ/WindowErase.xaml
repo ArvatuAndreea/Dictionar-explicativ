@@ -1,0 +1,21 @@
+﻿<Window x:Class="Dictionar_explicativ.WindowErase"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Dictionar_explicativ"
+        xmlns:ctx="clr-namespace:Dictionar_explicativ"
+        mc:Ignorable="d"
+        Title="WindowErase" Height="450" Width="809.854">
+
+    <Window.DataContext>
+        <ctx:CuvantVM/>
+    </Window.DataContext>
+    <StackPanel Margin="0,0,2,0">
+        <WrapPanel>
+        <Label Content="Cuvant: "/>
+        <TextBox Name="textBoxErase" Width="146" />
+    </WrapPanel>
+        <Button Content="Sterge" HorizontalAlignment="Center" Margin="377,0" Click="Button_Click"/>
+    </StackPanel>
+</Window>

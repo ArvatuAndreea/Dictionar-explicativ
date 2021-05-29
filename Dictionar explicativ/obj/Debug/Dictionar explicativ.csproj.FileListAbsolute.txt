@@ -1,0 +1,60 @@
+C:\Users\pc\Desktop\Dictionar explicativ\bin\Debug\Dictionar explicativ.exe.config
+C:\Users\pc\Desktop\Dictionar explicativ\bin\Debug\Dictionar explicativ.exe
+C:\Users\pc\Desktop\Dictionar explicativ\bin\Debug\Dictionar explicativ.pdb
+C:\Users\pc\Desktop\Dictionar explicativ\obj\Debug\Dictionar explicativ.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Dictionar explicativ\obj\Debug\MainWindow.g.cs
+C:\Users\pc\Desktop\Dictionar explicativ\obj\Debug\App.g.cs
+C:\Users\pc\Desktop\Dictionar explicativ\obj\Debug\Dictionar explicativ_MarkupCompile.cache
+C:\Users\pc\Desktop\Dictionar explicativ\obj\Debug\Dictionar explicativ_MarkupCompile.lref
+C:\Users\pc\Desktop\Dictionar explicativ\obj\Debug\MainWindow.baml
+C:\Users\pc\Desktop\Dictionar explicativ\obj\Debug\Dictionar explicativ.g.resources
+C:\Users\pc\Desktop\Dictionar explicativ\obj\Debug\Dictionar_explicativ.Properties.Resources.resources
+C:\Users\pc\Desktop\Dictionar explicativ\obj\Debug\Dictionar explicativ.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Dictionar explicativ\obj\Debug\Dictionar explicativ.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Dictionar explicativ\obj\Debug\Dictionar explicativ.exe
+C:\Users\pc\Desktop\Dictionar explicativ\obj\Debug\Dictionar explicativ.pdb
+C:\Users\pc\Desktop\Dictionar explicativ\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\pc\Desktop\Dictionar explicativ\obj\Debug\WindowAdd.g.cs
+C:\Users\pc\Desktop\Dictionar explicativ\obj\Debug\WindowAdmin.g.cs
+C:\Users\pc\Desktop\Dictionar explicativ\obj\Debug\WindowAdd.baml
+C:\Users\pc\Desktop\Dictionar explicativ\obj\Debug\WindowAdmin.baml
+C:\Users\pc\Desktop\Dictionar explicativ\obj\Debug\WindowErase.g.cs
+C:\Users\pc\Desktop\Dictionar explicativ\obj\Debug\WindowErase.baml
+C:\Users\pc\Desktop\Dictionar explicativ\obj\Debug\WindowSearch.g.cs
+C:\Users\pc\Desktop\Dictionar explicativ\obj\Debug\WindowSearch.baml
+C:\Users\pc\Desktop\Dictionar explicativ\obj\Debug\OpenFileDialog.g.cs
+C:\Users\pc\Desktop\Dictionar explicativ\obj\Debug\OpenFileDialog.baml
+C:\Users\pc\Desktop\Dictionar explicativ\obj\Debug\WindowGame.g.cs
+C:\Users\pc\Desktop\Dictionar explicativ\obj\Debug\WindowGame.baml
+C:\Users\pc\Desktop\Dictionar explicativ\obj\Debug\WindowGame1.g.cs
+C:\Users\pc\Desktop\Dictionar explicativ\obj\Debug\WindowGame1.baml
+E:\Facultate An2 sem2\Facultate\Medii vizuale de programare (MVP)\Dictionar explicativ\obj\Debug\Dictionar explicativ.csprojAssemblyReference.cache
+E:\Facultate An2 sem2\Facultate\Medii vizuale de programare (MVP)\Dictionar explicativ\obj\Debug\MainWindow.g.cs
+E:\Facultate An2 sem2\Facultate\Medii vizuale de programare (MVP)\Dictionar explicativ\obj\Debug\OpenFileDialog.g.cs
+E:\Facultate An2 sem2\Facultate\Medii vizuale de programare (MVP)\Dictionar explicativ\obj\Debug\WindowAdd.g.cs
+E:\Facultate An2 sem2\Facultate\Medii vizuale de programare (MVP)\Dictionar explicativ\obj\Debug\WindowAdmin.g.cs
+E:\Facultate An2 sem2\Facultate\Medii vizuale de programare (MVP)\Dictionar explicativ\obj\Debug\WindowErase.g.cs
+E:\Facultate An2 sem2\Facultate\Medii vizuale de programare (MVP)\Dictionar explicativ\obj\Debug\WindowGame.g.cs
+E:\Facultate An2 sem2\Facultate\Medii vizuale de programare (MVP)\Dictionar explicativ\obj\Debug\WindowGame1.g.cs
+E:\Facultate An2 sem2\Facultate\Medii vizuale de programare (MVP)\Dictionar explicativ\obj\Debug\WindowSearch.g.cs
+E:\Facultate An2 sem2\Facultate\Medii vizuale de programare (MVP)\Dictionar explicativ\obj\Debug\App.g.cs
+E:\Facultate An2 sem2\Facultate\Medii vizuale de programare (MVP)\Dictionar explicativ\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Facultate An2 sem2\Facultate\Medii vizuale de programare (MVP)\Dictionar explicativ\obj\Debug\Dictionar explicativ_MarkupCompile.cache
+E:\Facultate An2 sem2\Facultate\Medii vizuale de programare (MVP)\Dictionar explicativ\obj\Debug\Dictionar explicativ_MarkupCompile.lref
+E:\Facultate An2 sem2\Facultate\Medii vizuale de programare (MVP)\Dictionar explicativ\obj\Debug\Dictionar explicativ.exe
+E:\Facultate An2 sem2\Facultate\Medii vizuale de programare (MVP)\Dictionar explicativ\obj\Debug\Dictionar explicativ.pdb
+E:\Facultate An2 sem2\Facultate\Medii vizuale de programare (MVP)\Dictionar explicativ\bin\Debug\Dictionar explicativ.exe.config
+E:\Facultate An2 sem2\Facultate\Medii vizuale de programare (MVP)\Dictionar explicativ\bin\Debug\Dictionar explicativ.exe
+E:\Facultate An2 sem2\Facultate\Medii vizuale de programare (MVP)\Dictionar explicativ\bin\Debug\Dictionar explicativ.pdb
+E:\Facultate An2 sem2\Facultate\Medii vizuale de programare (MVP)\Dictionar explicativ\obj\Debug\MainWindow.baml
+E:\Facultate An2 sem2\Facultate\Medii vizuale de programare (MVP)\Dictionar explicativ\obj\Debug\OpenFileDialog.baml
+E:\Facultate An2 sem2\Facultate\Medii vizuale de programare (MVP)\Dictionar explicativ\obj\Debug\WindowAdd.baml
+E:\Facultate An2 sem2\Facultate\Medii vizuale de programare (MVP)\Dictionar explicativ\obj\Debug\WindowAdmin.baml
+E:\Facultate An2 sem2\Facultate\Medii vizuale de programare (MVP)\Dictionar explicativ\obj\Debug\WindowErase.baml
+E:\Facultate An2 sem2\Facultate\Medii vizuale de programare (MVP)\Dictionar explicativ\obj\Debug\WindowGame.baml
+E:\Facultate An2 sem2\Facultate\Medii vizuale de programare (MVP)\Dictionar explicativ\obj\Debug\WindowGame1.baml
+E:\Facultate An2 sem2\Facultate\Medii vizuale de programare (MVP)\Dictionar explicativ\obj\Debug\WindowSearch.baml
+E:\Facultate An2 sem2\Facultate\Medii vizuale de programare (MVP)\Dictionar explicativ\obj\Debug\Dictionar explicativ.g.resources
+E:\Facultate An2 sem2\Facultate\Medii vizuale de programare (MVP)\Dictionar explicativ\obj\Debug\Dictionar_explicativ.Properties.Resources.resources
+E:\Facultate An2 sem2\Facultate\Medii vizuale de programare (MVP)\Dictionar explicativ\obj\Debug\Dictionar explicativ.csproj.GenerateResource.cache
+E:\Facultate An2 sem2\Facultate\Medii vizuale de programare (MVP)\Dictionar explicativ\obj\Debug\Dictionar explicativ.csproj.CoreCompileInputs.cache
